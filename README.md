@@ -38,6 +38,4 @@ This project demonstrates real-time white lane detection on road videos using Py
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chamo111/white-line-detection.git
-   cd white-line-detection
-
+   git clone https://github.com/chamo111/White-Line-Detection-with-OpenCV-and-Python/tree/main
